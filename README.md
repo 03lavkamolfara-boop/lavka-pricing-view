@@ -1,0 +1,1 @@
+# lavka-pricing-view
